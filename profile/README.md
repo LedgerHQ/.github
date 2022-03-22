@@ -10,7 +10,7 @@ Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow y
 * Discord: https://discord.gg/QrsPHdnr9h
 * Support: https://twitter.com/Ledger_Support
 * Developer Portal: https://developers.ledger.com/
-* Open positions: https://refer.hellotrusty.io/U02730JB7HR <!--- update with a generic link -->
+* Open positions: https://jobs.lever.co/ledger
 
 ## Repositories
 
