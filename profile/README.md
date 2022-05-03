@@ -38,3 +38,4 @@ Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow y
 * [polkadot](https://github.com/LedgerHQ/app-polkadot) - Polkadot Nano Application
 * [solana](https://github.com/LedgerHQ/app-solana) - Solana Nano Application
 * [tezos](https://github.com/LedgerHQ/app-tezos) - Tezos Nano Application
+* [stellar](https://github.com/LedgerHQ/app-stellar) - Stellar Nano Application
