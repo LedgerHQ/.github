@@ -25,7 +25,6 @@ _Those projects are now deprecated and the monorepo is to be used as the source 
 
 * [desktop](https://github.com/LedgerHQ/ledger-live-desktop) - Desktop application
 * [mobile](https://github.com/LedgerHQ/ledger-live-mobile) - Mobile application
-* [common](https://github.com/LedgerHQ/ledger-live-common) - Shared logic between desktop and mobile
 * [ui](https://github.com/LedgerHQ/ui) - Design and interface resources for React and React-Native projects within Ledger
 * [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - Ledger's javascript libraries
 
