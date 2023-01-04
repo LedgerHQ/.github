@@ -34,10 +34,6 @@ Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you t
 
 * [wallet-api](https://github.com/LedgerHQ/wallet-api)
 
-### Solidity
-
-* [solidity library](https://github.com/LedgerHQ/innovation-contracts-solidity) - Collection of smart contracts written in Solidity
-
 ### Nano applications
 
 * [bitcoin](https://github.com/LedgerHQ/app-bitcoin-new) - Bitcoin Nano Application
