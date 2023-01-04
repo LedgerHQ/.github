@@ -46,3 +46,4 @@ Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you t
 * [polkadot](https://github.com/LedgerHQ/app-polkadot) - Polkadot Nano Application
 * [solana](https://github.com/LedgerHQ/app-solana) - Solana Nano Application
 * [tezos](https://github.com/LedgerHQ/app-tezos) - Tezos Nano Application
+* [stellar](https://github.com/LedgerHQ/app-stellar) - Stellar Nano Application
