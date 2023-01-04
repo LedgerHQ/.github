@@ -7,24 +7,32 @@ Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow y
 * Website: https://www.ledger.com/
 * Shop: https://shop.ledger.com/
 * Twitter: https://twitter.com/Ledger
-* Discord: https://discord.gg/QrsPHdnr9h
+* Discord: https://discord.gg/Ledger
 * Support: https://twitter.com/Ledger_Support
 * Developer Portal: https://developers.ledger.com/
+* Blog Articles: https://blog.ledger.com/
 * Open positions: https://jobs.lever.co/ledger
 
 ## Repositories
 
 ### Ledger Live
 
+Monorepo architecture containing all Ledger Live JavaScript ecosystem
+
+* [ledger live](https://github.com/LedgerHQ/ledger-live)
+ 
+_Those projects are now deprecated and the monorepo is to be used as the source of truth_
+
 * [desktop](https://github.com/LedgerHQ/ledger-live-desktop) - Desktop application
 * [mobile](https://github.com/LedgerHQ/ledger-live-mobile) - Mobile application
-* [common](https://github.com/LedgerHQ/ledger-live-common) - Shared logic between desktop and mobile
 * [ui](https://github.com/LedgerHQ/ui) - Design and interface resources for React and React-Native projects within Ledger
-* [app-sdk](https://github.com/LedgerHQ/live-app-sdk) - Integrate your application or service inside Ledger Live
-
-### Shared
-
 * [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - Ledger's javascript libraries
+
+### Ledger Wallet API
+
+Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you to integrate your application in a Ledger wallet (today only Ledger Live wallet is handled)
+
+* [wallet-api](https://github.com/LedgerHQ/wallet-api)
 
 ### Solidity
 
