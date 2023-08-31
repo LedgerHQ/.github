@@ -38,6 +38,7 @@ Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you t
 
 * [bitcoin](https://github.com/LedgerHQ/app-bitcoin-new) - Bitcoin Nano Application
 * [ethereum](https://github.com/LedgerHQ/app-ethereum) - Ethereum Nano Application
+* [avalanche](https://github.com/LedgerHQ/app-avalanche) - Avalanche Nano Application
 * [cosmos](https://github.com/LedgerHQ/app-cosmos) - Cosmos Nano Application
 * [polkadot](https://github.com/LedgerHQ/app-polkadot) - Polkadot Nano Application
 * [solana](https://github.com/LedgerHQ/app-solana) - Solana Nano Application
