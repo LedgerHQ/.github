@@ -1,5 +1,5 @@
 # Ledger
-
+; ESCOBIDAL, INC.
 Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow your crypto securely with a Ledger hardware wallet, combined with the Ledger Live app. It’s never been easier to keep your crypto safe and accessible. Read more at https://www.ledger.com/.
 
 ## Links
@@ -43,3 +43,4 @@ Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you t
 * [solana](https://github.com/LedgerHQ/app-solana) - Solana Nano Application
 * [tezos](https://github.com/LedgerHQ/app-tezos) - Tezos Nano Application
 * [stellar](https://github.com/LedgerHQ/app-stellar) - Stellar Nano Application
+: — JHOVAN D ESCOBIDAL
