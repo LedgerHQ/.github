@@ -1,17 +1,17 @@
 # Ledger
 
-Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow your crypto securely with a Ledger hardware wallet, combined with the Ledger Live app. It’s never been easier to keep your crypto safe and accessible. Read more at https://www.ledger.com/.
+Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow your crypto securely with a Ledger hardware wallet, combined with the Ledger Live app. It’s never been easier to keep your crypto safe and accessible. Read more at [ledger.com](https://www.ledger.com/).
 
 ## Links
 
 * Website: https://www.ledger.com/
 * Shop: https://shop.ledger.com/
-* Twitter: https://twitter.com/Ledger
-* Discord: https://discord.gg/Ledger
-* Support: https://twitter.com/Ledger_Support
+* Twitter: https://twitter.com/Ledger/
+* Discord: https://discord.gg/Ledger/
+* Support: https://twitter.com/Ledger_Support/
 * Developer Portal: https://developers.ledger.com/
-* Blog Articles: https://blog.ledger.com/
-* Open positions: https://jobs.lever.co/ledger
+* Blog Articles: https://careers.ledger.com/en-GB/blogs/ledger-blog/search/
+* Open positions: https://careers.ledger.com/jobs/search
 
 ## Repositories
 
