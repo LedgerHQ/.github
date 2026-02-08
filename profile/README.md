@@ -1,6 +1,11 @@
 # Ledger
 
-Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow your crypto securely with a Ledger hardware wallet, combined with the Ledger Live app. It’s never been easier to keep your crypto safe and accessible. Read more at [ledger.com](https://www.ledger.com/).
+Ledger is the best way to secure your crypto assets. Buy, exchange, and grow your crypto securely with a Ledger hardware wallet, combined with the Ledger Wallet app (formerly Ledger Live). It has never been easier to keep your crypto safe and accessible. Read more at [ledger.com](https://www.ledger.com/).
+
+## Note on naming rebrand (2025)
+ ☞   “Ledger Live” (Desktop and Mobile application) is now “Ledger Wallet”
+     “wallet” (hardware device) is now “signer”. (Eg, a Nano Gen5 is a signer)
+     LedgerHQ repositories may contain legacy references
 
 ## Links
 
@@ -15,13 +20,13 @@ Ledger's the smartest way to secure your crypto assets. Buy, exchange and grow y
 
 ## Repositories
 
-### Ledger Live
+### Ledger Wallet (formerly Ledger Live)
 
-Monorepo architecture containing all Ledger Live JavaScript ecosystem
+Monorepo architecture containing all Ledger Wallet JavaScript ecosystem
 
-* [ledger live](https://github.com/LedgerHQ/ledger-live)
+* [Ledger Wallet](https://github.com/LedgerHQ/ledger-live)
  
-_Those projects are now deprecated and the monorepo is to be used as the source of truth_
+_The following are ⛔️ DEPRECATED. They are all found in the Monorepo_
 
 * [desktop](https://github.com/LedgerHQ/ledger-live-desktop) - Desktop application
 * [mobile](https://github.com/LedgerHQ/ledger-live-mobile) - Mobile application
@@ -30,11 +35,11 @@ _Those projects are now deprecated and the monorepo is to be used as the source 
 
 ### Ledger Wallet API
 
-Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you to integrate your application in a Ledger wallet (today only Ledger Live wallet is handled)
+Monorepo architecture containing all Ledger Wallet API ecosystem, allowing you to integrate your application in a Ledger wallet (currently, only Ledger Wallet is handled)
 
-* [wallet-api](https://github.com/LedgerHQ/wallet-api)
+* [Wallet Api](https://github.com/LedgerHQ/wallet-api)
 
-### Nano applications
+### Device applications
 
 * [bitcoin](https://github.com/LedgerHQ/app-bitcoin-new) - Bitcoin Nano Application
 * [ethereum](https://github.com/LedgerHQ/app-ethereum) - Ethereum Nano Application
