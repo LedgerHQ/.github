@@ -1,11 +1,14 @@
 # Ledger
 
-Ledger is the best way to secure your crypto assets. Buy, exchange, and grow your crypto securely with a Ledger hardware wallet, combined with the Ledger Wallet app (formerly Ledger Live). It has never been easier to keep your crypto safe and accessible. Read more at [ledger.com](https://www.ledger.com/).
+Ledger is the best way to secure your crypto assets.  
+Buy, exchange, and grow your crypto securely with a Ledger signer (formely hardware wallet), combined with the Ledger Wallet app (formerly Ledger Live).   
+It has never been easier to keep your crypto safe and accessible.   
+Read more at [ledger.com](https://www.ledger.com/).
 
-## Note on naming rebrand (2025)
- ☞   “Ledger Live” (Desktop and Mobile application) is now “Ledger Wallet”
-     “wallet” (hardware device) is now “signer”. (Eg, a Nano Gen5 is a signer)
-     LedgerHQ repositories may contain legacy references
+## Note on Naming Rebrand (2025)
+ ☞   “Ledger Live” (Desktop and Mobile application) is now “Ledger Wallet”.  
+     “wallet” (hardware device) is now “signer”. (Eg, a Nano Gen5 is a signer).  
+     LedgerHQ repositories may contain legacy references   
 
 ## Links
 
